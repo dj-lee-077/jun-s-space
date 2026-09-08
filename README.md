@@ -1,3 +1,4 @@
+![Uploading 스크린샷 2026-09-08 113116.png…]()
 # 나의 첫 GitHub Markdown 연습
 
 ## 자기소개
@@ -24,3 +25,9 @@
 ## 간단한 코드 예시
 
 다음은 Python의 간단한 코드입니다.
+```python
+def greet(name):
+    print(f"안녕하세요, {name}님!")
+
+greet("홍길동")
+```
